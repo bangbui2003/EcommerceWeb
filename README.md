@@ -1,6 +1,6 @@
 ## GIỚI THIỆU ĐỒ ÁN
 
--   **Đề tài:** Trang website bán các thiết bị công nghệ
+-   **Đề tài:** Website thương mại điện tử
 
 ## CÔNG NGHỆ SỬ DỤNG
 
